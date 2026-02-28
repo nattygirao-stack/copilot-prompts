@@ -1,0 +1,389 @@
+# 🧠 IA Mentor de Carreira: Descubra Seu Futuro em Tech 
+
+https://img.shields.io/badge/status-concluído-brightgreen
+
+https://img.shields.io/badge/AI-Generative-blue
+
+https://img.shields.io/badge/carreiras-tech-purple
+
+https://img.shields.io/badge/documentação-README.md-important
+
+
+---
+
+ 
+## 📚 Sumário
+
+1. #-sobre-o-projeto 
+
+2. #-objetivo 
+
+3. #-metodologia-da-interação 
+
+4. #-fase-1--entrevista-estruturada 
+
+5. #-fase-2--análise-e-ranking-das-carreiras 
+
+6. #-fase-3--escolha-da-carreira-e-handoff 
+
+7. #-tecnologias--conceitos 
+
+8. #-como-replicar-este-projeto 
+
+9. #-autor
+
+ 
+---
+
+
+## 🧠 Sobre o Projeto
+
+Este repositório documenta uma interação completa com um **IA Mentor Especializado em Carreiras em Tecnologia**, desenvolvida como entrega da aula:
+
+
+> **IA Mentor de Carreira: Descubra Seu Futuro em Tech**
+
+
+O objetivo foi conduzir uma simulação realista de orientação profissional usando ferramentas de IA generativa, passando por uma entrevista estruturada, análise de perfil e recomendação de carreiras em tecnologia.
+
+
+---
+
+
+## 🎯 Objetivo
+
+Identificar a carreira ideal em tecnologia com base em:
+
+ 
+
+- Interesses 
+
+- Experiências prévias 
+
+- Estilo de trabalho 
+
+- Motivação profissional 
+
+- Disponibilidade de estudo 
+
+ 
+
+O processo foi dividido em 3 fases: **entrevista, análise e decisão**.
+
+ 
+
+---
+
+ 
+
+## 📝 Metodologia da Interação
+
+A IA conduziu:
+
+ 
+
+- **7 perguntas estruturadas** (uma por vez) 
+
+- **Análise baseada em matriz de pontuação** 
+
+- **Recomendações personalizadas de carreira** 
+
+- **Encaminhamento para um especialista (Agent 2)**
+
+ 
+
+---
+
+ 
+
+# 🗂️ Fase 1 — Entrevista Estruturada
+
+ 
+
+A IA fez 7 perguntas, cada uma registrada abaixo com minha respectiva resposta.
+
+ 
+
+---
+
+ 
+
+### **Pergunta 1:** 
+
+**O que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?** 
+
+➡️ *Quero resolver problemas.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 2:** 
+
+**Você já tem experiência na área de tecnologia ou está começando do zero?** 
+
+➡️ *Estou começando do zero.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 3:** 
+
+**Quantas horas por semana você consegue dedicar aos estudos?** 
+
+➡️ *Consigo estudar 10 horas.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 4:** 
+
+**No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?** 
+
+➡️ *Me interesso por pessoas e tech.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 5:** 
+
+**Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?** 
+
+➡️ *Quero crescer na área de tech.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 6:** 
+
+**Quais assuntos ou tecnologias mais despertam seu interesse?** 
+
+➡️ *Me interesso por inteligência artificial.*
+
+ 
+
+---
+
+ 
+
+### **Pergunta 7:** 
+
+**Você tem alguma experiência prévia (mesmo que não seja em tecnologia) que gostaria de aproveitar nessa nova jornada?** 
+
+➡️ *Já fiz cursos online de IA.*
+
+ 
+
+---
+
+ 
+
+# 📊 Fase 2 — Análise e Ranking das Carreiras
+
+ 
+
+Com base nas respostas, a IA calculou pontuações (0 a 20) para diferentes carreiras e apresentou as **3 mais alinhadas ao meu perfil**.
+
+ 
+
+---
+
+ 
+
+## 🥇 **1º Lugar — Especialista em IA Aplicada (18/20)**
+
+ 
+
+### 💡 Por que combina comigo:
+
+- Interesse em **resolver problemas**. 
+
+- Já possuo **experiência inicial via cursos online de IA**. 
+
+- Gosto de **pessoas + tecnologia**, essencial em IA aplicada. 
+
+- Alinhado ao meu objetivo de **crescer na área de tecnologia**.
+
+ 
+
+### ✔️ Vantagens:
+
+- Alta demanda global. 
+
+- Aplicação prática e impacto direto em projetos reais.
+
+ 
+
+### ⚠️ Desafios:
+
+- Necessidade de estudo contínuo. 
+
+- Requer habilidade de traduzir problemas humanos em soluções inteligentes.
+
+ 
+
+---
+
+ 
+
+## 🥈 **2º Lugar — Analista de Produtos com foco em IA (16/20)**
+
+ 
+
+### 💡 Por que combina comigo:
+
+- Interesse em entender pessoas, dores e necessidades. 
+
+- Afinidade com tecnologia e visão de produto. 
+
+- IA como diferencial competitivo.
+
+ 
+
+### ✔️ Vantagens:
+
+- Papel estratégico e multifuncional. 
+
+- Alta interação com times e usuários.
+
+ 
+
+### ⚠️ Desafios:
+
+- Forte necessidade de priorização e comunicação eficaz.
+
+ 
+
+---
+
+ 
+
+## 🥉 **3º Lugar — Analista de Dados com foco em IA (15/20)**
+
+ 
+
+### 💡 Por que combina comigo:
+
+- Resolver problemas é essencial nessa área. 
+
+- Caminho natural para evoluir para Machine Learning. 
+
+- Forte relação com meu interesse em IA.
+
+ 
+
+### ✔️ Vantagens:
+
+- Excelente porta de entrada para o ecossistema de IA. 
+
+- Base sólida em dados.
+
+ 
+
+### ⚠️ Desafios:
+
+- Aprendizado de ferramentas analíticas. 
+
+- Exige prática consistente.
+
+ 
+
+---
+
+ 
+
+# 🎯 Fase 3 — Escolha da Carreira e Handoff
+
+ 
+
+Após análise, escolhi seguir como:
+
+ 
+
+# 🚀 **Especialista em Inteligência Artificial**
+
+ 
+
+A IA então preparou o handoff para o “Agent 2”, responsável por criar um **plano de estudos personalizado**.
+
+ 
+
+### 📦 Informações enviadas ao Agent 2:
+
+- **Carreira escolhida:** Especialista em IA 
+
+- **Horas semanais:** 10h 
+
+- **Nível de experiência:** Iniciante (com cursos online) 
+
+- **Objetivo:** Crescer na área de tecnologia 
+
+- **Preferência:** Pessoas + tecnologia 
+
+- **Interesse técnico:** Inteligência Artificial 
+
+ 
+
+---
+
+ 
+
+# 🧩 Tecnologias & Conceitos
+
+- IA generativa 
+
+- Prompt engineering 
+
+- Entrevistas guiadas 
+
+- Análise de perfil profissional 
+
+- Decisão algorítmica 
+
+- Carreiras em tecnologia 
+
+ 
+
+---
+
+ 
+
+# 🛠️ Como Replicar este Projeto
+
+1. Use um assistente de IA generativa. 
+
+2. Forneça instruções para conduzir uma entrevista de carreira estruturada. 
+
+3. Registre cada etapa no formato Markdown. 
+
+4. Monte um README apresentando o processo completo. 
+
+ 
+
+---
+
+ 
+
+# 👩‍💼 Autor
+
+**Natalia Carlos Girão Rodrigues** 
+
+Assistente Junior • Apaixonada por IA aplicada e soluções inteligentes 
+
+ 
+
+---
